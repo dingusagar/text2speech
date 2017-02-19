@@ -7,4 +7,5 @@ package com.example.dingu.text2speech;
 public class newClass {
 
     //This is a new class
+  //  Theses are new changese
 }
